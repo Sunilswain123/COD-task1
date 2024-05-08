@@ -3,7 +3,6 @@
 <title>Add Todo</title>
 @endpush
 @section('main-section')
-
 <div class="container">
     <div class="d-flex justify-content-between align-items-center">
         <div class="h2">Create/Add Todo</div>
